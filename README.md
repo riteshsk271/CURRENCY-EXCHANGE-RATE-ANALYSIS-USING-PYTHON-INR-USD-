@@ -9,7 +9,11 @@ Technology Used
 
 
 1:-Python
+
+
 2:-Jupyter Notebook
+
+
 3:-Machine Learning Packages
 
 
@@ -18,10 +22,20 @@ Make sure the following dependencies are installed in your machine
 
 
 python 3.7
+
+
 sklearn
+
+
 pandas
+
+
 matplotlib
+
+
 keras
+
+
 numpy
 
 
