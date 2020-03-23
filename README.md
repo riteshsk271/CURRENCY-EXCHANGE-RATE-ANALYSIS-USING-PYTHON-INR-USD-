@@ -42,14 +42,20 @@ numpy
 
 References
 Python building predictive models
+
+
 https://www.analyticsvidhya.com/blog/2015/09/build-predictive-model-10-minutes-python/
 
 
 Review and description:
+
+
 http://www.investopedia.com/articles/forex/11/4-ways-to-forecast-exchange-rates.asp
 
 
 Data:
+
+
 https://in.investing.com/currencies/usd-inr-historical-data
 
 
